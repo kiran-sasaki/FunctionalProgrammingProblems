@@ -8,7 +8,8 @@
             //FlipCoin.HeadOrTailPercentage();
             //LeapYear.LeapYearCheck();
             //PowerOf2.Exponent();
-            HarmonicNo.Harmonicsum();
+            //HarmonicNo.Harmonicsum();
+            PrimeFactor.Factorization();
         }
     }
 }
