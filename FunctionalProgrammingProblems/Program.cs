@@ -10,7 +10,8 @@
             //PowerOf2.Exponent();
             //HarmonicNo.Harmonicsum();
             //PrimeFactor.Factorization();
-            QuotientandRemainder.Dividing();
+            //QuotientandRemainder.Dividing();
+            SwapNumbers.SwapNo();
         }
     }
 }
