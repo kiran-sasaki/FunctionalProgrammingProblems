@@ -7,7 +7,8 @@
             //Console.WriteLine("Welcome To FunctionalProgrammingProblems");
             //FlipCoin.HeadOrTailPercentage();
             //LeapYear.LeapYearCheck();
-            PowerOf2.Exponent();
+            //PowerOf2.Exponent();
+            HarmonicNo.Harmonicsum();
         }
     }
 }
