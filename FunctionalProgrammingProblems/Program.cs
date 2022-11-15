@@ -5,7 +5,8 @@
         public static void Main(string[] args)
         {
             //Console.WriteLine("Welcome To FunctionalProgrammingProblems");
-            FlipCoin.HeadOrTailPercentage();
+            //FlipCoin.HeadOrTailPercentage();
+            LeapYear.LeapYearCheck();
         }
     }
 }
