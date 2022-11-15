@@ -6,7 +6,8 @@
         {
             //Console.WriteLine("Welcome To FunctionalProgrammingProblems");
             //FlipCoin.HeadOrTailPercentage();
-            LeapYear.LeapYearCheck();
+            //LeapYear.LeapYearCheck();
+            PowerOf2.Exponent();
         }
     }
 }
