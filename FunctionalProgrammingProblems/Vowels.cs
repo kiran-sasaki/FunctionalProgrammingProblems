@@ -18,7 +18,7 @@ namespace FunctionalProgrammingProblems
             }
             else
             {
-                Console.WriteLine(ch + " Is a Constant");
+                Console.WriteLine(ch + " Is a Consonant");
             }
         }
     }
