@@ -13,7 +13,8 @@
             //QuotientandRemainder.Dividing();
             //SwapNumbers.SwapNo();
             //EvenOrOdd.Numbercheck();
-            Vowels.VowelAndConstant();
+            //Vowels.VowelAndConstant();
+            GreatestNo.FindMaximum();
         }
     }
 }
