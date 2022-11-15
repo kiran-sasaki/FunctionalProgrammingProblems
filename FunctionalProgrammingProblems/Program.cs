@@ -9,7 +9,8 @@
             //LeapYear.LeapYearCheck();
             //PowerOf2.Exponent();
             //HarmonicNo.Harmonicsum();
-            PrimeFactor.Factorization();
+            //PrimeFactor.Factorization();
+            QuotientandRemainder.Dividing();
         }
     }
 }
