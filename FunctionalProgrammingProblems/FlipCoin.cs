@@ -10,11 +10,10 @@ namespace FunctionalProgrammingProblems
     {
         public static void HeadOrTailPercentage()
         {
-            //Variables
-            int tailCount = 0;
-            int headCount = 0;
-            Double headPercentage = 0;
-            Double tailPercentage = 0;
+            int TailCount = 0;
+            int HeadCount = 0;
+            Double HeadPercentage = 0;
+            Double TailPercentage = 0;
 
             Console.WriteLine("Enter The No Of times to Flips");
             int flips = Convert.ToInt32(Console.ReadLine());
