@@ -10,10 +10,10 @@ namespace FunctionalProgrammingProblems
     {
         public static void HeadOrTailPercentage()
         {
-            int TailCount = 0;
-            int HeadCount = 0;
-            Double HeadPercentage = 0;
-            Double TailPercentage = 0;
+            int tailCount = 0;
+            int headCount = 0;
+            Double headPercentage = 0;
+            Double tailPercentage = 0;
 
             Console.WriteLine("Enter The No Of times to Flips");
             int flips = Convert.ToInt32(Console.ReadLine());
@@ -26,12 +26,12 @@ namespace FunctionalProgrammingProblems
                 if (num == 0)
                 {
                     Console.WriteLine("Tail");
-                    TailCount++;
+                    tailCount++;
                 }
                 else
                 {
                     Console.WriteLine("Head");
-                    HeadCount++;
+                    headCount++;
                 }
             }
             HeadPercentage = (HeadCount * 100) / flips;
