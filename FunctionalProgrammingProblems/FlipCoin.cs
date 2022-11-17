@@ -10,6 +10,7 @@ namespace FunctionalProgrammingProblems
     {
         public static void HeadOrTailPercentage()
         {
+            //Variables
             int tailCount = 0;
             int headCount = 0;
             Double headPercentage = 0;
@@ -20,6 +21,7 @@ namespace FunctionalProgrammingProblems
 
             for (int i = 0; i < flips; i++)
             {
+                //RandomForCoinFlip
                 Random random = new Random();
                 int num = random.Next(2);
 
@@ -34,6 +36,7 @@ namespace FunctionalProgrammingProblems
                     headCount++;
                 }
             }
+            //Calculating Percentage Of tail and head
             HeadPercentage = (HeadCount * 100) / flips;
             TailPercentage = (TailCount * 100) / flips;
             Console.WriteLine("tailpercentage " + TailPercentage);
